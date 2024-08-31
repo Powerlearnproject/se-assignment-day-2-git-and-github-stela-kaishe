@@ -91,3 +91,6 @@ Issues can be used for bug reports, feature requests and task tracking while pro
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 Common challenges;  new users might encounter challenges like overwritting changes, confusing branches and neglecting issues.
 Best practice;The use of review code regularly, use branching effectively, stay organized with issues and project boards
+
+Common pitfalls; Overwitting changes, confusing branches, ignoring issues
+best practices;review code regularly,use branching effectively, stay organized
